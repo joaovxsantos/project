@@ -1,0 +1,89 @@
+*{
+    /* text-align: center; */
+    color: hsl(0, 0%, 100%);
+    font-size: 18px;
+    font-family: 'Outfit', sans-serif;}
+
+
+body{
+    background-color:hsl(217, 54%, 11%);
+}
+
+div{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    background-color: hsl(216, 50%, 16%);
+    width: 270px;
+    height: 500px;
+    border-radius: 20px;
+}
+
+p{
+    max-width: 300px;
+    margin-left: 22px;
+    opacity: 0.6;
+    font-size: 15px;
+}
+
+
+#nft{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+
+h1{
+    margin-left: 22px;
+    margin-top: 25px;
+}
+
+
+#cripto{
+    margin-left: 22px;
+    margin-top: 12px;
+    display: inline-block;
+}
+
+
+
+
+h6{
+font-size: 12px;
+   color:hsl(178, 100%, 50%);
+   margin-top: -22px;
+   margin-left: 40px;
+   
+}
+
+#clock{
+
+    position: relative;
+    bottom: 46px;
+    left: 175px;
+}
+
+
+h5{
+    font-size: 12px;
+    position: relative;
+    left: 200px;
+    bottom: 87px;
+    opacity: 0.6;
+
+}
+
+
+hr{
+    display: flex;
+    color: hsl(0, 0%, 100%);
+    opacity: 0.2;
+    margin-top: -80px;
+    max-width: 88%;
+}
+
+
